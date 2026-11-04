@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AVR_ISP_SMD") (type "KiCad") (uri "${KIPRJMOD}/footprints/AVR_ISP_SMD/AVR_ISP_SMD.pretty") (options "") (descr ""))
+)
