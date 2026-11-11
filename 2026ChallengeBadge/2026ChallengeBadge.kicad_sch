@@ -3072,6 +3072,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 170.18 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "06ff337d-205c-4389-bb04-96ebb9e151f3")
 		)
@@ -3140,6 +3151,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 170.18 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 170.18 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -3228,6 +3250,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 170.18 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2cb85308-7e1e-45c4-9965-e3b8dc9e8ab9")
 		)
@@ -3296,6 +3329,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 170.18 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 170.18 127 0)
 			(hide yes)
 			(show_name no)
@@ -3385,6 +3429,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 205.74 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "19388dc5-c4b2-48e4-b252-535657341dca")
 		)
@@ -3419,7 +3474,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 177.8 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3453,6 +3508,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "RC0402JR-7D100RL"
+			(at 177.8 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3543,6 +3620,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 148.59 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "74c75bed-3da4-4708-ac16-c9b7bba1c486")
 		)
@@ -3622,6 +3710,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 205.74 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bf2cda92-b61a-4b20-a198-6272338051f2")
 		)
@@ -3656,7 +3755,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 177.8 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3690,6 +3789,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "ERJ-U0XF2000Y"
+			(at 177.8 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3736,7 +3857,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 177.8 72.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3770,6 +3891,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "WCR1206-100RFA"
+			(at 177.8 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3938,6 +4081,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 186.69 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82aa4d46-46e9-40d2-94ea-09ace2418085")
 		)
@@ -4008,6 +4162,17 @@
 		)
 		(property "Description" "test point"
 			(at 205.74 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 205.74 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4104,6 +4269,28 @@
 				)
 			)
 		)
+		(property "MfgPart#" "IN-S63BT5UW"
+			(at 195.58 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 195.58 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a2d817ef-a759-42ff-9ae9-f4a48fe69690")
 		)
@@ -4185,6 +4372,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 167.64 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ae5d3d85-df9c-44f8-bc4e-e05180aa6c82")
 		)
@@ -4255,6 +4453,28 @@
 			)
 		)
 		(property "Description" "20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, SOIC-8"
+			(at 127 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "ATTINY85V-10SU"
+			(at 127 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 127 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4365,6 +4585,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 205.74 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "750b7dc3-89cb-4c94-b3fd-5ffcba2d4c04")
 		)
@@ -4442,6 +4673,28 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 195.58 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "APG015ZGC/S-5MAV"
+			(at 195.58 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 195.58 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -4534,6 +4787,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 205.74 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00705e93-c2d0-4d0b-be10-1ae97ae7ea98")
 		)
@@ -4602,6 +4866,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 186.69 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 186.69 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4690,6 +4965,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 186.69 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b3f5abe2-1e22-4c94-8b77-f0a9092ecf62")
 		)
@@ -4760,6 +5046,17 @@
 		)
 		(property "Description" "test point"
 			(at 205.74 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 205.74 101.6 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4926,6 +5223,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 213.36 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ab1e4795-30c1-4d07-8cf1-280ded5e1987")
 		)
@@ -4960,7 +5268,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 177.8 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4994,6 +5302,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "KTR10EZPJ101"
+			(at 177.8 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5040,7 +5370,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100"
 			(at 177.8 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5074,6 +5404,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "ERJ-3GEYJ101V"
+			(at 177.8 101.6 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 101.6 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5154,6 +5506,28 @@
 		)
 		(property "Description" ""
 			(at 177.8 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "BHR-06-VUA"
+			(at 177.8 52.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 52.07 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5343,6 +5717,28 @@
 				)
 			)
 		)
+		(property "MfgPart#" "SML-LX0402GC-TR"
+			(at 195.58 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 195.58 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "aae9358a-c9e7-4ad9-a660-098c01562bcc")
 		)
@@ -5424,6 +5820,28 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 195.58 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "LTST-C150KSKT"
+			(at 195.58 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 195.58 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5593,6 +6011,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 186.69 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "368cde0f-2b1f-44f7-a793-f9b1c96c0626")
 		)
@@ -5670,6 +6099,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 127 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "47daf189-2da0-4493-aac4-c5eea6c8d1c4")
 		)
@@ -5719,7 +6159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uf"
 			(at 85.344 103.124 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5753,6 +6193,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 92.71 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "SH31B104K160CT"
+			(at 92.71 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 92.71 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5800,7 +6262,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 177.8 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5834,6 +6296,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MfgPart#" "ERA-1AEB201C"
+			(at 177.8 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 177.8 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5934,6 +6418,28 @@
 				)
 			)
 		)
+		(property "MfgPart#" "599-0110-137F"
+			(at 195.58 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 195.58 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c3990736-c55a-4bd6-8153-6c982f3b1883")
 		)
@@ -6015,6 +6521,17 @@
 				)
 			)
 		)
+		(property "Mfgpart#" ""
+			(at 170.18 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5b67506a-e0bc-41d7-bd67-cfaccff9375e")
 		)
@@ -6083,6 +6600,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 186.69 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 186.69 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6180,6 +6708,28 @@
 				)
 			)
 		)
+		(property "MfgPart#" "IN-S21AT2B"
+			(at 195.58 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
+			(at 195.58 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "decc238e-ff73-4312-8e5d-b2c42b77ffdf")
 		)
@@ -6251,6 +6801,17 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 186.69 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mfgpart#" ""
 			(at 186.69 114.3 0)
 			(hide yes)
 			(show_name no)
